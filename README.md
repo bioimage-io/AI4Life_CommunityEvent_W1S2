@@ -9,7 +9,7 @@ This repository provides materials for **Session 1**. It includes code and resou
 ## 🚀 Quick Start
 
 The notebook can be used in Google Colab or locally, after setting up the environment.
-To open the notebook in Google click here:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/bioimage-io/AI4Life_CommunityEvent_W1S2/blob/main/loading_using_model.ipynb)
+To open the notebook in Google click here:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bioimage-io/AI4Life_CommunityEvent_W1S2/blob/main/loading_using_model.ipynb)
 Otherwise, follow the installation steps below.
 
 
