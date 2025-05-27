@@ -32,7 +32,7 @@ conda activate bioimageio
 Install the main dependencies from the conda-forge channel:
 
 ```terminal
-conda install -c conda-forge bioimageio.core pytorch jupyterlab matplotlib
+conda install -c conda-forge bioimageio.core pytorch jupyterlab matplotlib devtools
 ```
 
 - `bioimageio.core`: Core library for working with BioImage Model Zoo models.
